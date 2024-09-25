@@ -22,6 +22,13 @@ Resumo do lab
 2. Criando máquinas virtuais na Azure
 3. Storage
 
+## Lab: Tipos de serviços na nuvem
+1. Tipos de serviço e responsabilidades
+   1. IaaS
+   2. PaaS
+   3. SaaS
+2. Responsabilidade compartilhada
+   
 ## Etiquetas
 
 Adicione etiquetas de algum lugar, como: [shields.io](https://shields.io/)
