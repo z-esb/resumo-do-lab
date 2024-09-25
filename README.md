@@ -16,6 +16,12 @@ Resumo do lab
  1. Fazendo um fork e adicionando um arquivo .md
 ## Azure AI
 1. Informações sobre a IA, passos iniciais e usos
+
+## Lab: Benefícios da nuvem
+1. SLA: tipos e tempo de inatividade
+2. Criando máquinas virtuais na Azure
+3. Storage
+
 ## Etiquetas
 
 Adicione etiquetas de algum lugar, como: [shields.io](https://shields.io/)
