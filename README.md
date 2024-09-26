@@ -40,6 +40,22 @@ Resumo do lab
    1. Tour virtual pela infraestrutura global
    2. Overview das funcionalidades / configurações / gerência de custos no grupo de recursos
 
+## Lab: Computação e rede
+1. Computação e rede
+   1. Tipos de computação
+   2. Hospedagem de aplicativos
+   3. Redes virtuais
+ 2. Sefviços de computação
+ 3. Conjunto de disponibilidade de VM
+ 4. Área de trabalho virtual
+ 5. Contêineres do Azure
+    1. Instâncias
+    2. Apps
+    3. AKS
+ 6. Azure functions
+ 7. Serviços de aplicativos
+ 8. Serviços de rede / gateway de VPN / ExpressRoute / DNS
+ 9. Configurando recursos e dimensionamento em VMs
 
 ## Etiquetas
 
