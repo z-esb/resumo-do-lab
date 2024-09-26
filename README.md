@@ -57,6 +57,37 @@ Resumo do lab
  8. Serviços de rede / gateway de VPN / ExpressRoute / DNS
  9. Configurando recursos e dimensionamento em VMs
 
+## Lab: Armazenamento
+1. Armazenamento do Azure
+ 1. Serviços de armazenamento
+ 2. Opções de redundância
+ 3. Gerenciamento e migração de arquivos
+2. Contas de armazenamento
+3. Redundância de armazenamento
+   1. LRS
+   2. ZRS
+   3. GRS
+   4. GZRS
+4. Serviços de armazenamento
+   1. Blob
+   2. Disco do Azure
+   3. Fila
+   4. Arquivos
+   5. Tabelas
+5. Pontos de extremidade públicos
+6. Camadas de acesso de armazenamento (cobra por repositório + consulta)
+   1. Frequente
+   2. Esporádico => 30 dias
+   3. Frio => 90 dias
+   4. Arquivo morto => 180 dias
+7. Mgrações para o Azure
+   1. Azure Data Box: 80 TB
+   2. Azure Data Box Disk: 35 TB
+   3. Azure Data Box Heavy: 800 TB
+   4. AzCopy (utilitário linha de comando - unidirecional)
+   5. Gerenciador de armazenamento do Azure: (utilitário AzCopy modo gráfico - bidirecional)
+   6. Sincronização de arquivos
+
 ## Etiquetas
 
 Adicione etiquetas de algum lugar, como: [shields.io](https://shields.io/)
