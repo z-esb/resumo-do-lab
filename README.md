@@ -28,7 +28,19 @@ Resumo do lab
    2. PaaS
    3. SaaS
 2. Responsabilidade compartilhada
-   
+
+## Lab: Componentes de arquiteura do Azure
+1. Arquitetura e serviços Azure
+   1. Regiões a zonas de disponibilidades
+   2. Pares de regiões
+   3. Região de soberania
+2. Recursos do Azure
+3. Assinaturas
+4. Construindo arquiteturas no Azure
+   1. Tour virtual pela infraestrutura global
+   2. Overview das funcionalidades / configurações / gerência de custos no grupo de recursos
+
+
 ## Etiquetas
 
 Adicione etiquetas de algum lugar, como: [shields.io](https://shields.io/)
