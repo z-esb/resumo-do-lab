@@ -159,6 +159,28 @@ Resumo do lab
 4. Infraestrutura como código
 5. Modelos do ARM => JSON
 6. BICEP => linguagem nativa Azure
+
+## LAB: Monitoramento inteligente com o Azure
+1. Ferramentas de monitoramento do Azure
+   1. Assistente do Azure
+   2. Integridade do serviço do Azure
+   3. Azure monitor
+2. Assistente do Azure
+   1. Analisa recursos e faz recomendações
+   2. Confiabilidade
+   3. Segurança
+   4. Desempenho
+   5. Custo
+   6. Excelência operacional
+3. Integridade do serviço do Azure
+4. Status do Azure
+5. Resource health
+6. Azure monitor
+7. Azure log analytics
+8. Alertas do Azure Monitor
+9. Application insights
+    
+
 ## Etiquetas
 
 Adicione etiquetas de algum lugar, como: [shields.io](https://shields.io/)
