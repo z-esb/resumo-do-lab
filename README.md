@@ -87,6 +87,30 @@ Resumo do lab
    4. AzCopy (utilitário linha de comando - unidirecional)
    5. Gerenciador de armazenamento do Azure: (utilitário AzCopy modo gráfico - bidirecional)
    6. Sincronização de arquivos
+## Lab: Entendendo aobre segurança e identidade
+1. Identidade, acesso e segurança
+   1. Serviços de diretório
+   2. Métodos de autenticação
+   3. Modelos de segurança
+2. Microsoft Entra ID: gerenciamento de identidade e acesso
+   1. Autenticação
+   2. SSO
+   3. Gerenciamento de aplicativos
+   4. B2B / B2C
+   5. Gerenciamento de dispositivos
+3. Serviços
+4. Autenticação e auytorização
+5. Autenticação MFA
+   1. Algo que você sabe
+   2. Algo que você possui
+   3. Algo que você é
+6. B2B / B2C do Microsoft Entra External ID
+7. Acesso condicional
+8. Controle de acesso baseado em função (RBAC)
+9. Confiança zero
+10. Microsoft Defender for Cloud
+    
+
 
 ## Etiquetas
 
