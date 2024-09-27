@@ -110,7 +110,23 @@ Resumo do lab
 9. Confiança zero
 10. Microsoft Defender for Cloud
     
-
+## Lab: Gerenciamento de custos
+1. Gerenciamento de custos na Azure
+2. Fatores que afffetam os custos
+   1. Tipo de recursos
+   2. Consumo
+      1. Pay as you go
+      2. Reserva
+   3. Manutenção
+   4. Área geográfica
+   5. Tráfego de rede
+   6. Assinatura
+3. Azure marketplace
+4. Calculadora de preços
+   1. Simulação e estimativa
+   2. TCO
+5. Gerenciamento de custos do Azure
+6. Marcas (tags)
 
 ## Etiquetas
 
