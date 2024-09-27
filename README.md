@@ -128,6 +128,26 @@ Resumo do lab
 5. Gerenciamento de custos do Azure
 6. Marcas (tags)
 
+## Lab: Governança e conformidade
+1. Blueprints, políticas e bloqueio de recursos
+2. Portal de confiança do serviço
+3. Azure policy => gerenciamento de recursos
+   1. Ajuda a impor padrões
+   2. Governança
+   3. Avalia e identifica os recursos que não atendem às sua políticas
+4. Azure policy - modify effect
+   1. Non compliant
+   2. Remediation
+   3. Compliant
+5. Gerenciando bloqueios de recursos
+6. Portal de confiança do serviço
+7. Microsoft Purview
+   1. Solução de GRC
+   2. Reúne insights sobre dados locais, multinuvem e de software como serviço
+   3. Descoberta de dados automatizada
+   4. Classificação de dados confidenciais
+   5. Linhagem de dados de ponta a ponta
+
 ## Etiquetas
 
 Adicione etiquetas de algum lugar, como: [shields.io](https://shields.io/)
