@@ -148,6 +148,17 @@ Resumo do lab
    4. Classificação de dados confidenciais
    5. Linhagem de dados de ponta a ponta
 
+## LAB: Ferramentas de gerenciamento e implantação
+1. Ferramentas de gerenciamento e implantação
+   1. Portal do Azure
+   2. Azure Powershell
+   3. Azure Cloud Shell
+   4. Interface de linha de comando (CLI)
+2. Azure ARC => ferramenta de gestão multicloud (para máq. fora do Azure)
+3. ARM: Azure Resource Manager
+4. Infraestrutura como código
+5. Modelos do ARM => JSON
+6. BICEP => linguagem nativa Azure
 ## Etiquetas
 
 Adicione etiquetas de algum lugar, como: [shields.io](https://shields.io/)
